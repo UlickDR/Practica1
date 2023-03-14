@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/02/2023, 07:58:16 PM
+    Author     : ulick
+*/
+
+body{
+    background-image: url('https://c8.alamy.com/compes/2befcef/programador-de-hombre-joven-trabajando-en-computadora-con-codigo-en-pantalla-concepto-vectorial-de-programacion-de-estudiantes-el-hombre-trabaja-con-el-ordenador-el-programador-profesional-y-el-caracter-de-independiente-en-la-ilustracion-del-lugar-de-trabajo-2befcef.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+
+.photo-container {
+    display: grid;
+    justify-content: center;
+  }
+  .img-display{
+    display:block;
+    margin: auto;
+    
+  }
+  
+.backgroundColor{
+    background-color: greenyellow;
+    width: 100%;
+    height: auto;
+    padding: 1px;
+}
+
+.footerBackghround{
+    background-color: cornflowerblue ;
+    width: 100%;
+    height: auto;
+}
+
+.ListaStyle{
+    display: block; 
+    text-align: center;
+}
+
+li{
+    margin-bottom: 50px;
+}
+
+.h2{
+    font-size: 30px; 
+    text-align: center;
+}
+
+.p{
+    font-family: Consolas; 
+    font-size: 20px; 
+    color: black;
+    text-indent: 30px;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.p1{
+    font-family: Consolas; 
+    font-size: 20px; 
+    color: black;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.tableStyle{
+    border-style: dotted; 
+    border-color: gray; 
+    width: 35%; 
+    margin: 0 auto;
+}
+
